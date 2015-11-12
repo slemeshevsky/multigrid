@@ -1,0 +1,5 @@
+*.pyc
+/.pythoscope
+.projectile
+/mg/*pyc
+mg/*.pyc
